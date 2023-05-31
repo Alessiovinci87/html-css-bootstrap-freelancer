@@ -1,0 +1,30 @@
+.container-header {
+    background-color: aqua;
+}
+
+.container-main-top {
+    background-color: lightcoral;
+}
+
+.container-main-center {
+    background-color: white;
+}
+.container-main-bottom {
+    background-color: lightgreen;
+}
+
+.container-footer-top {
+    background-color: white;
+}
+
+.container-footer-bottom {
+    background-color: lightgoldenrodyellow;
+}
+
+.footer-bottom-2 {
+    background-color: darkorange;
+}
+
+.row img{
+    width: 100%;
+}
