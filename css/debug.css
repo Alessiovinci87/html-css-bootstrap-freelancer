@@ -1,9 +1,10 @@
 .container-header {
-    background-color: aqua;
+ 
 }
 
 .container-main-top {
-    background-color: lightcoral;
+    background-color: #55BD9D;
+    color: white;
 }
 
 .container-main-center {
@@ -27,4 +28,13 @@
 
 .row img{
     width: 100%;
+    border-radius: 5%;
+}
+#avatar {
+    width: 50%;
+}
+
+.my-container {
+    width: 50%;
+    margin: 0 auto;
 }
